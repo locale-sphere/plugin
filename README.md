@@ -1,1 +1,1 @@
-# plugin
+# Locale Sphere plugin
